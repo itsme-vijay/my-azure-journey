@@ -13,7 +13,7 @@
 
 After logging in to Azure Portal:
 
-![Azure Homepage](./images/1.png)
+![1](./images/1.png)
 
 ---
 
@@ -21,7 +21,7 @@ After logging in to Azure Portal:
 
 Type **"virtual machine"** in the search bar.
 
-![Search VM](./images/2.png)
+![2](./images/2.png)
 
 ---
 
@@ -31,22 +31,25 @@ Inside **Virtual Machines**:
 - Click **+ Create**
 - Select **Virtual machine**
 
-![Create VM](./images/3.png)
+![3](./images/3.png)
+![4](./images/4.png)
+![5](./images/5.png)
 
 ---
 
 ## ⚙️ 3. Configure the VM
 
-- VM name: `my-vm`  
-- Region: East US  
-- Availability options: Skip  
-- Security type: Standard  
-- Image: Ubuntu Linux 24.04  
-- Architecture: x64  
-- Spot instance: No  
-- Size: 1 CPU, 2 GB RAM
+- Virtual machine name → Name of your computer (example: my-vm)
+- Region → Where in the world your VM will run (example: East US)
+- Availability options → Extra backup setup (skip for now)
+- Security type → Standard is fine; it's the default safety setting
+- Image → OS you want (here it's Ubuntu Linux 24.04)
+- VM architecture → Choose x64 (normal processor type)
+- Azure Spot discount → Cheaper, but VM can stop anytime (not for beginners)
+- Size → How powerful the VM is (CPU + RAM). Here: 1 CPU, 2 GB RAM
+- Enable Hibernation → Keep VM memory saved like a pause button (not needed now)
 
-![VM Configuration](./images/4.png)
+
 
 ---
 
@@ -58,7 +61,7 @@ Inside **Virtual Machines**:
 - SSH Key type: RSA  
 - Open port 22 for SSH access
 
-![SSH Setup](./images/5.png)
+
 
 ---
 
