@@ -1,107 +1,28 @@
-# 🚀 Lab 1: Create an Azure VM and Connect via SSH Using `.pem` File
+## 🧪 Lab 1: Create an Azure VM and Connect via SSH Using `.pem` File
 
----
+In this lab, I demonstrate how to launch a secure Ubuntu Virtual Machine on Microsoft Azure and connect to it using SSH with a `.pem` key. The steps include setting up the VM, configuring network rules, downloading the SSH key, and connecting from your terminal.
 
-## ✅ Prerequisites
+📸 This GitHub version includes step-by-step screenshots (`1.png` to `16.png`) to help you visually follow the process.
 
-- Azure account: [https://portal.azure.com](https://portal.azure.com)  
-- Active/free subscription
+🔗 For full explanations, tips, and detailed guidance, please read the complete tutorial on my Medium article:
 
----
-
-## 🧭 Step-by-Step Instructions
-
-After logging in to Azure Portal:
-
-![1](./images/1.png)
-
----
-
-## 🔍 1. Search for Virtual Machine
-
-Type **"virtual machine"** in the search bar.
-
-![2](./images/2.png)
-
----
-
-## ➕ 2. Create a Virtual Machine
-
-Inside **Virtual Machines**:
-- Click **+ Create**
-- Select **Virtual machine**
-
-![3](./images/3.png)
-![4](./images/4.png)
-![5](./images/5.png)
-
----
-
-## ⚙️ 3. Configure the VM
-
-- Virtual machine name → Name of your computer (example: my-vm)
-- Region → Where in the world your VM will run (example: East US)
-- Availability options → Extra backup setup (skip for now)
-- Security type → Standard is fine; it's the default safety setting
-- Image → OS you want (here it's Ubuntu Linux 24.04)
-- VM architecture → Choose x64 (normal processor type)
-- Azure Spot discount → Cheaper, but VM can stop anytime (not for beginners)
-- Size → How powerful the VM is (CPU + RAM). Here: 1 CPU, 2 GB RAM
-- Enable Hibernation → Keep VM memory saved like a pause button (not needed now)
+👉 **[Follow the full lab with explanations on Medium]([#](https://medium.com/@sirohi-v/lab-1-create-an-azure-vm-and-connect-via-ssh-using-pem-file-15b3e28ec93a))** ← *(Insert your Medium link here)*  
+Don’t forget to give it a read and a follow if you find it helpful! 🙌
 
 
-
----
-
-## 🔐 4. SSH Key Pair & Access
-
-- Login method: SSH public key  
-- Username: `azureuser`  
-- Generate new key pair → `my-key.pem`  
-- SSH Key type: RSA  
-- Open port 22 for SSH access
-
-
-
----
-
-## 🌐 5. Networking Concepts
-
-- **VNet** – Like a private internet in Azure  
-- **Public IP** – Needed for your laptop to connect  
-- **NIC** – Virtual LAN port  
-- **NSG** – Basic firewall  
-- **Inbound Ports** – Like "doors" for traffic
-
-![Networking Info](./images/6.png)
-
----
-
-## 🧱 6. Configure Network
-
-- VNet: `my-virtual-network`  
-- Address range: `10.0.0.0/16` (65K IPs)  
-- Subnet: `10.0.0.0/24` (256 IPs)
-
-![Network Setup](./images/7.png)
-
----
-
-## 🔑 7. Download SSH Key
-
-Azure warns you:
-> You won’t be able to download the key again.
-
-Click **Download private key and create resource**
-
-![Download PEM](./images/8.png)
-
----
-
-## 💻 8. Connect via SSH
-
-Open Git Bash and run:
-
-```bash
-cd downloads
-chmod 400 my
+![Step 1](./images/1.png)
+![Step 2](./images/2.png)
+![Step 3](./images/3.png)
+![Step 4](./images/4.png)
+![Step 5](./images/5.png)
+![Step 6](./images/6.png)
+![Step 7](./images/7.png)
+![Step 8](./images/8.png)
+![Step 9](./images/9.png)
+![Step 10](./images/10.png)
+![Step 11](./images/11.png)
+![Step 12](./images/12.png)
+![Step 13](./images/13.png)
+![Step 14](./images/14.png)
+![Step 15](./images/15.png)
+![Step 16](./images/16.png)
