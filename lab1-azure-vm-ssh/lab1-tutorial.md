@@ -1,13 +1,26 @@
 ## 🧪 Lab 1: Create an Azure VM and Connect via SSH Using `.pem` File
 
-In this lab, I demonstrate how to launch a secure Ubuntu Virtual Machine on Microsoft Azure and connect to it using SSH with a `.pem` key. The steps include setting up the VM, configuring network rules, downloading the SSH key, and connecting from your terminal.
+In this lab, I walk through how to create a secure Ubuntu Virtual Machine (VM) on Microsoft Azure and connect to it using SSH with a `.pem` key file.
 
-📸 This GitHub version includes step-by-step screenshots (`1.png` to `16.png`) to help you visually follow the process.
+🖼️ This GitHub version provides **all 16 step-by-step screenshots** to guide you visually.
 
-🔗 For full explanations, tips, and detailed guidance, please read the complete tutorial on my Medium article:
+🚨 **BUT!** To truly **understand the lab**, with full context, beginner-friendly explanations, and important concepts like networking, SSH key handling, and firewall rules —  
+👉 **You MUST follow the full article on Medium.**
 
-👉 **[Follow the full lab with explanations on Medium]([#](https://medium.com/@sirohi-v/lab-1-create-an-azure-vm-and-connect-via-ssh-using-pem-file-15b3e28ec93a))** ← *(Insert your Medium link here)*  
-Don’t forget to give it a read and a follow if you find it helpful! 🙌
+🎯 The Medium article includes:
+
+- ✅ What each option in Azure means (in simple terms)  
+- ✅ Why you're doing each step — not just how  
+- ✅ Tips, warnings, and real-world explanations  
+- ✅ Clear guidance for absolute beginners
+
+🔗 **📖 Read the full tutorial here:**  
+👉 [**Follow the full step-by-step guide on Medium →**](#) *([insert your Medium article link here](https://medium.com/@sirohi-v/lab-1-create-an-azure-vm-and-connect-via-ssh-using-pem-file-15b3e28ec93a))*
+
+💬 *Don't just follow images. Go through the article to actually understand what's happening behind each click.*
+
+🙌 If it helps you, leave a clap and follow on Medium!
+
 
 
 ![Step 1](./images/1.png)
