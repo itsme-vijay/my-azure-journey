@@ -15,7 +15,7 @@ In this lab, I walk through how to create a secure Ubuntu Virtual Machine (VM) o
 - ✅ Clear guidance for absolute beginners
 
 🔗 **📖 Read the full tutorial here:**  
-👉 [**Follow the full step-by-step guide on Medium →**](#) *((https://medium.com/@sirohi-v/lab-1-create-an-azure-vm-and-connect-via-ssh-using-pem-file-15b3e28ec93a))*
+👉 [**Follow the full step-by-step guide on Medium →**](#) *(https://medium.com/@sirohi-v/lab-1-create-an-azure-vm-and-connect-via-ssh-using-pem-file-15b3e28ec93a)*
 
 💬 *Don't just follow images. Go through the article to actually understand what's happening behind each click.*
 
