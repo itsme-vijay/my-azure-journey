@@ -29,7 +29,6 @@ This lab helps you understand:
 
 📸 **Visual Walkthrough (Screenshots)**
 
-> Click each image below to open it full-size. These follow the exact step-by-step process from Azure Portal setup to VM creation.
 
 | Step | Screenshot |
 |------|------------|
