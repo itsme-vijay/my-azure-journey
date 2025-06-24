@@ -10,4 +10,14 @@ Learn how to launch a VM on Azure and connect to it securely using a `.pem` key.
 
 ---
 
+## 📘 Lab 2: Create Azure VM with Availability Set and Virtual Network
+
+Learn how to create a VM using an **Availability Set** for high availability and configure a custom **Virtual Network** to meet infrastructure requirements.
+
+📁 [View Lab 2](./lab2-azure-vm-availability-vnet/)
+
+---
+
+
+
 More labs coming soon... 🌩️
