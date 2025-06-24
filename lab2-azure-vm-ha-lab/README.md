@@ -27,3 +27,28 @@ This lab helps you understand:
 
 🙌 Found it helpful? Drop a clap on Medium and follow for more Azure labs!
 
+📸 **Visual Walkthrough (Screenshots)**
+
+> Click each image below to open it full-size. These follow the exact step-by-step process from Azure Portal setup to VM creation.
+
+| Step | Screenshot |
+|------|------------|
+| 1 | ![Step 1](./images/1.png) |
+| 2 | ![Step 2](./images/2.png) |
+| 3 | ![Step 3](./images/3.png) |
+| 4 | ![Step 4](./images/4.png) |
+| 5 | ![Step 5](./images/5.png) |
+| 6 | ![Step 6](./images/6.png) |
+| 7 | ![Step 7](./images/7.png) |
+| 8 | ![Step 8](./images/8.png) |
+| 9 | ![Step 9](./images/9.png) |
+| 10 | ![Step 10](./images/10.png) |
+| 11 | ![Step 11](./images/11.png) |
+| 12 | ![Step 12](./images/12.png) |
+| 13 | ![Step 13](./images/13.png) |
+| 14 | ![Step 14](./images/14.png) |
+| 15 | ![Step 15](./images/15.png) |
+| 16 | ![Step 16](./images/16.png) |
+| 17 | ![Step 17](./images/17.png) |
+| 18 | ![Step 18](./images/18.png) |
+| 19 | ![Step 19](./images/19.png) |
