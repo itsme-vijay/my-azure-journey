@@ -16,7 +16,11 @@ In this lab, you'll learn how to deploy and test your first **Azure Function App
 
 🧠 **BUT...** to understand the *why* behind each step, including fun facts and real-world context:
 
-👉 **[Read the full article here][Medium-Article](https://medium.com/@sirohi-v/lab-3-getting-started-with-azure-function-apps-deploy-and-run-your-first-serverless-function-3168038ace39)** for the complete learning experience!
+---
+
+### 📚 Read the full tutorial here:
+
+👉 [Lab 3: Deploying an Azure Function App (HTTP Trigger)](https://medium.com/@sirohi-v/lab-3-getting-started-with-azure-function-apps-deploy-and-run-your-first-serverless-function-3168038ace39)
 
 ---
 
