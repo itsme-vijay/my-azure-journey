@@ -23,21 +23,23 @@ In this lab, you'll learn how to deploy and test your first **Azure Function App
 ### 📸 Visual Walkthrough (Screenshots)
 
 
-![Step 1 - Login to Azure Portal](images/1.png)  
-![Step 2 - Search Log Analytics Workspace](images/2.png)  
-![Step 3 - Create Log Analytics Workspace](images/3.png)  
-![Step 4 - Start creating Function App](images/4.png)  
-![Step 5 - Fill in basic Function App details](images/5.png)  
-![Step 6 - Hosting setup](images/6.png)  
-![Step 7 - Review + Create](images/7.png)  
-![Step 8 - Deployment in progress](images/8.png)  
-![Step 9 - Go to Function App resource](images/9.png)  
-![Step 10 - Browse to the Function App](images/10.png)  
-![Step 11 - Click “Create Function”](images/11.png)  
-![Step 12 - Select HTTP Trigger](images/12.png)  
-![Step 13 - Name your function](images/13.png)  
-![Step 14 - Code + Test view](images/14.png)  
-![Step 15 - Test/Run Function](images/15.png)  
-![Step 16 - Output confirmation (200 OK)](images/16.png)  
-![Step 17 - Validate Lab Completion](images/17.png)  
-![Step 18 - Delete resources from Resource Group](images/18.png)
+| Step | Screenshot |
+|------|------------|
+| 1 | ![Step 1](./images/1.png) |
+| 2 | ![Step 2](./images/2.png) |
+| 3 | ![Step 3](./images/3.png) |
+| 4 | ![Step 4](./images/4.png) |
+| 5 | ![Step 5](./images/5.png) |
+| 6 | ![Step 6](./images/6.png) |
+| 7 | ![Step 7](./images/7.png) |
+| 8 | ![Step 8](./images/8.png) |
+| 9 | ![Step 9](./images/9.png) |
+| 10 | ![Step 10](./images/10.png) |
+| 11 | ![Step 11](./images/11.png) |
+| 12 | ![Step 12](./images/12.png) |
+| 13 | ![Step 13](./images/13.png) |
+| 14 | ![Step 14](./images/14.png) |
+| 15 | ![Step 15](./images/15.png) |
+| 16 | ![Step 16](./images/16.png) |
+| 17 | ![Step 17](./images/17.png) |
+| 18 | ![Step 18](./images/18.png) |
