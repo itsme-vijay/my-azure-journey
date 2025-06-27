@@ -24,6 +24,13 @@ Learn how to create your first **Azure Function App** using an **HTTP Trigger** 
 
 📁 [View Lab 3](./lab3-azure-function-app/)
 
+---
+
+## ⚡ Lab 4: Deploy a Web App on Azure Using Visual Studio
+
+Learn how to build a simple ASP.NET web app using **Visual Studio**, and deploy it to the internet using **Azure App Service** — perfect for beginners who want to see their code go live!
+
+📂 [View Lab 4](./lab4-azure-webapp-deployment/)
 
 
 
