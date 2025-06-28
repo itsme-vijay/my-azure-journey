@@ -32,6 +32,15 @@ Learn how to build a simple ASP.NET web app using **Visual Studio**, and deploy 
 
 📂 [View Lab 4](./lab4-azure-webapp-deployment/)
 
+---
+
+## ⚡ Lab 5: Create Azure Virtual Network and Connect Two VMs Internally (via Ping)
+
+Learn how to create a **Virtual Network (VNet)** in Azure and deploy **two Windows virtual machines** inside it. You’ll configure the network rules and firewall settings to enable **internal communication using ICMP/ping** — a key networking skill for testing and connectivity!
+
+📂 [View Lab 5](./lab5-vnet-internal-vm-connectivity/)
+
+
 
 
 More labs coming soon... 🌩️
