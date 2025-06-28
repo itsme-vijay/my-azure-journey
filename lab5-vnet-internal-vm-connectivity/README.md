@@ -32,15 +32,15 @@ Perfect for understanding the basics of Azure networking, internal communication
 | Step | Screenshot |
 |------|------------|
 | 0 | ![Step 00](./images/0.png) |
-| 1 | ![Step 01](./images/01.png) |
-| 2 | ![Step 02](./images/02.png) |
-| 3 | ![Step 03](./images/03.png) |
-| 4 | ![Step 04](./images/04.png) |
-| 5 | ![Step 05](./images/05.png) |
-| 6 | ![Step 06](./images/06.png) |
-| 7 | ![Step 07](./images/07.png) |
-| 8 | ![Step 08](./images/08.png) |
-| 9 | ![Step 09](./images/09.png) |
+| 1 | ![Step 01](./images/1.png) |
+| 2 | ![Step 02](./images/2.png) |
+| 3 | ![Step 03](./images/3.png) |
+| 4 | ![Step 04](./images/4.png) |
+| 5 | ![Step 05](./images/5.png) |
+| 6 | ![Step 06](./images/6.png) |
+| 7 | ![Step 07](./images/7.png) |
+| 8 | ![Step 08](./images/8.png) |
+| 9 | ![Step 09](./images/9.png) |
 | 10 | ![Step 10](./images/10.png) |
 | 11 | ![Step 11](./images/11.png) |
 | 12 | ![Step 12](./images/12.png) |
