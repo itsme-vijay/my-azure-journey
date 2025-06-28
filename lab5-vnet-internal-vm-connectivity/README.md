@@ -15,9 +15,9 @@ Perfect for understanding the basics of Azure networking, internal communication
 - How to connect to VMs using RDP (Remote Desktop)
 - How to enable internal communication between two VMs using ICMP/ping
 
-📁 This folder contains step-by-step **screenshots (0 to 35)** to walk you visually through each task of the lab.
+📁 This folder contains step-by-step **screenshots** to walk you visually through each task of the lab.
 
-💡 *P.S...* To dive deeper into the “why” behind each step (and see fun facts 😄), check out the full article on Medium.
+💡To dive deeper into the “why” behind each step (and see fun facts 😄), check out the full article on Medium.
 
 ---
 
