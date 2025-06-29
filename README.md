@@ -40,6 +40,19 @@ Learn how to create a **Virtual Network (VNet)** in Azure and deploy **two Windo
 
 📂 [View Lab 5](./lab5-vnet-internal-vm-connectivity/)
 
+---
+
+## ⚡ Lab 6: Create and Test DNS Zone & Record in Azure
+
+Learn how to set up a **DNS Zone** in Azure and create an **A Record** that maps your custom domain (like `www.demo.com`) to an IP address. You’ll also verify it using `nslookup` in Cloud Shell and clean up the environment afterward.
+
+[View Lab 6](./lab6-azure-dns-zone-and-records/)
+
+---
+
+
+
+
 
 
 
