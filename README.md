@@ -4,8 +4,10 @@ Sharing my hands-on Azure learning with **click-by-click labs**, screenshots, an
 
 ---
 
-## ⚡ Lab 1: Create an Azure VM and Connect via SSH Using `.pem` File  
+## ⚡ Lab 1: Create an Azure VM and Connect via SSH Using `.pem` File 
+
 Learn how to launch a VM on Azure and connect to it securely using a `.pem` key.  
+
 📂 [View Lab 1](./lab1-azure-vm-ssh/)
 
 ---
@@ -50,9 +52,13 @@ Learn how to set up a **DNS Zone** in Azure and create an **A Record** that maps
 
 ---
 
+## ⚡ Lab 7: Azure Storage Super Lab – Blob, File Share, Access Tiers & Lifecycle
 
+Learn how to work with **Azure Storage Accounts** to upload files to blob containers, configure public/private access, use Archive tier and rehydrate, set up Azure File Shares, and implement automatic Lifecycle rules to optimize storage costs.
 
+🧠 You’ll explore Blob access levels, Archive → Hot tier conversion, and storage lifecycle automation — key skills for real-world Azure projects.
 
+[View Lab 7](./lab7-azure-storage-superlab/)
 
 
 
